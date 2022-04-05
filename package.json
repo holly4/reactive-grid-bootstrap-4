@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@devexpress/dx-react-core": "3.0.2",
+    "@devexpress/dx-react-grid": "3.0.2",
+    "@devexpress/dx-react-grid-bootstrap4": "3.0.2",
+    "react": "^17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "name": "vj2tbn",
+  "description": null,
+  "version": "0.0.0",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
